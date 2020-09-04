@@ -14,6 +14,7 @@ public class JavaConceptOfTheDay {
 	//should be replaced with “Buzz” and multiples of both 3 and 5 should be replaced with “FizzBuzz”?
 
 	//Git changes - Checking
+	//Git changes2
 	@Test
 	public void a () {
 		LinkedList<String> abc = new LinkedList<String>();
