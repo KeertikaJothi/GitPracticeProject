@@ -13,7 +13,7 @@ public class JavaConceptOfTheDay {
 	//But, multiples of 3 should be replaced with “Fizz”, multiples of 5 
 	//should be replaced with “Buzz” and multiples of both 3 and 5 should be replaced with “FizzBuzz”?
 
-	
+	//Git changes - Checking
 	@Test
 	public void a () {
 		LinkedList<String> abc = new LinkedList<String>();
